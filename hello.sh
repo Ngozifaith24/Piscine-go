@@ -1,2 +1,2 @@
 #!bin/bash
-echo 'Hello NgoziFaith24!'
+echo 'Hello Ngozifaith24!'
